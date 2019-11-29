@@ -1,0 +1,6 @@
+language = "C"
+
+header = """
+#define FFI_SCOPE "TESTPHP"
+#define FFI_LIB "target/debug/libtest_php_ffi.so"
+"""
