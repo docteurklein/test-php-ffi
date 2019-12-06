@@ -9,4 +9,9 @@ docker run --rm -w $PWD -v $PWD:$PWD php-ffi php php/test.php
 ```
 
 
-<div style="color:red">test</div>
+<div>
+<style>
+  * {color: red; } 
+</style>
+  test
+</div>
